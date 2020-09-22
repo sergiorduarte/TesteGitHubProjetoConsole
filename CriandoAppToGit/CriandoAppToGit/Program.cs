@@ -10,7 +10,7 @@ namespace CriandoAppToGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("teste");
+            Console.WriteLine("Exemplo 2");
             Console.ReadLine();
         }
     }
